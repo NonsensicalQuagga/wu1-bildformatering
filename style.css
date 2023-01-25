@@ -24,3 +24,19 @@ ul{
     grid-template-rows: auto;
     gap: 1rem;
 }
+nav > ul{
+    background-color: black;
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+    font-size: 1.3rem;
+}
+
+ a{
+    color: white;
+    text-decoration: none;
+}
+
+ a:hover{
+    color: red;
+}
